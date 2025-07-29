@@ -23,4 +23,4 @@ This repository contains the implementation of the neural network model presente
 - 'UNETR.py' was designed with reference to [UNETR implementation by tamasino52](https://github.com/tamasino52/UNETR), which is licensed under the MIT License.
 
 ## Contact
-For any queries, please reach out to [Seonaeng Cho] seonaeng@yonsei.ac.kr.
+For any queries, please reach out to Seonaeng Cho. (seonaeng@yonsei.ac.kr)
